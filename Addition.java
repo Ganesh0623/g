@@ -1,6 +1,10 @@
 public class Addition
 {
+<<<<<<< HEAD
 	 //comment
+=======
+	 // main method
+>>>>>>> a6d06a5d6fd5e951fa69d485fef4eeb063709739
 	public static void main(String[] args) 
 	{
 
